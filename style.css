@@ -23,10 +23,9 @@ body {
     height: 200px;
     border-radius: 10px;
     box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
-    margin: 5px;
-    background: #fff;
-	border:1px solid #dedede;
-    box-shadow: 1px 1px 1px 0px rgba(204,204,204,0.35);
+    margin: 5px;    
+	border:2px solid #dedede;
+    box-shadow: 2px 2px 1px 1px rgba(204,204,204,0.40);
 }
 .card-02 {
     background: teal;
